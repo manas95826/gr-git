@@ -1,2 +1,2 @@
 # gr-git
-Presented to the esteemed members of Geek Room
+Presented to the enthusiastic members of Geek Room!
